@@ -259,6 +259,9 @@ ServiceFabricBackup/
 *.ldf
 *.ndf
 
+#SQLite Db files
+*.db
+
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
@@ -441,3 +444,4 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 appsettings.json
+API/datingapp.db
